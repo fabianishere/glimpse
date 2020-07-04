@@ -1,0 +1,7 @@
+BasedOnStyle: Chromium
+IndentWidth: 4
+UseTab: Never
+BraceWrapping:
+  AfterFunction: true
+AccessModifierOffset: -4
+ColumnLimit: 120
